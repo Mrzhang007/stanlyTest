@@ -8,16 +8,3 @@
  */
 // home 1
 // home 2
-
-// are you ok
-// I am not ok
-
-// you are so  bad
-// 在dev-evg随便提交一个
-
-// 这个是dev-evg-001的提交
-
-// mergessss
-// 111111
-
-// 1111111111====>> 先提交
